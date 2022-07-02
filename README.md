@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Asad</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-- 👨‍💻 All of my projects are available at [https://usasad.vercel.app](https://usasad.vercel.app)
+- 👨‍💻 All of my projects are available at [us-asad.tk](https://us-asad.tk)
 
 - 💬 Ask me about **React, Next.js, GraphCMS**
 
-- 📫 How to reach me **usasad99@gmail.com**
+- 📫 How to reach me **usmonovasad3@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
