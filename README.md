@@ -9,18 +9,29 @@
 <h1 >My skills  <a width="6%" href="https://github.com/us-asad"><img height="36px" width="4%" align="center" src="https://github.com/us-asad/us-asad/blob/main/imgs/dev.png" /> </h1>
 
 <p align="center">
- <a href="https://www.w3schools.com/whatis/whatis_html.asp"><img src="https://img.icons8.com/color/60/000000/html-5--v1.png"/></a><a href="https://www.w3schools.com/Css/css_intro.asp"><img src="https://img.icons8.com/color/60/000000/css3.png"/><a><a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/60/000000/bootstrap.png"/></a>
-   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a>
+ <a href="https://www.w3schools.com/whatis/whatis_html.asp"><img src="https://img.icons8.com/color/60/000000/html-5--v1.png"/></a>
+ <a href="https://www.w3schools.com/Css/css_intro.asp"><img src="https://img.icons8.com/color/60/000000/css3.png"/><a>
+ <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/60/000000/bootstrap.png"/></a>
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60"/> </a>
+ <a href="https://styled-components.com" target="_blank" rel="noreferrer"> <img src="https://www.daggala.com/static/228867c3668e439101821568a8a03b54/19ca5/sc.png" alt="styled components" width="60" height="60"/> </a>
  <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/60/000000/javascript--v2.png"/></a>
-    <a href="https://en.wikipedia.org/wiki/API"><img src="https://img.icons8.com/ios-filled/60/000000/api-settings.png"/></a>
- <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/60/000000/external-npm-a-package-manager-for-the-javascript-programming-language-logo-color-tal-revivo.png"/></a>
+ <a href="https://reactjs.org"><img src="https://img.icons8.com/color/60/000000/react-native.png"/></a>
+ <a href="https://nextjs.org"><img src="https://img.icons8.com/color/60/000000/nextjs.png"/></a>
+ <a href="https://redux.js.org"><img src="https://img.icons8.com/color/60/000000/redux.png"/></a>
+ <a href="https://nodejs.org/en"><img src="https://img.icons8.com/fluency/60/000000/node-js.png"/></a>
+ <a href="https://expressjs.com"><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" width="60px"/></a>
+ <a href="https://www.mongodb.com"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/60/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"/></a>
+ <a href="https://graphql.org"><img src="https://img.icons8.com/color/60/000000/graphql.png"/></a>
+ <a href="https://graphcms.com"><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/an08ylfyloudxfbsaovk" width="60px"/></a>
  <a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/60/000000/firebase.png"/></a>
-    <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/fluency/60/000000/node-js.png"/></a>
+ <a href="https://en.wikipedia.org/wiki/API"><img src="https://img.icons8.com/ios-filled/60/000000/api-settings.png"/></a>
+ <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/60/000000/external-npm-a-package-manager-for-the-javascript-programming-language-logo-color-tal-revivo.png"/></a>
  <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/60/000000/git.png"/></a>
- <a href="https://github.com/"><img src="https://img.icons8.com/stickers/60/000000/github.png"/></a>
-    <a href="https://github.com/us-asad"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"/></a>
-   <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/60/000000/visual-studio-code-2019.png"/></a>
+ <a href="https://github.com/"><img src="https://img.icons8.com/ios-glyphs/60/000000/github.png"/></a>
+ <a href="https://www.netlify.com"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"/></a>
+ <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/60/000000/visual-studio-code-2019.png"/></a>
 <p>
+
 
 <!-- Contact me -->
   <h1>Contact me <a  href="https://github.com/us-asad"><img width="3%" align="center" src="https://github.com/us-asad/us-asad/blob/main/imgs/phone.png" /></a> </h1>
