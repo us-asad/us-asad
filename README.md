@@ -37,10 +37,9 @@
   <h1>Contact me <a  href="https://github.com/us-asad"><img width="3%" align="center" src="https://github.com/us-asad/us-asad/blob/main/imgs/phone.png" /></a> </h1>
    
    [![website](https://img.shields.io/badge/-Website-090909?style=for-the-badge&logo=appveyor)](https://us-asad.tk)
- [![Github](https://img.shields.io/badge/-gitHub-090909?style=for-the-badge&logo=gitHub)](https://github.com/us-asad) [![telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/us_asad) [![Fiverr](https://img.shields.io/badge/-Fiverr-090909?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/asad_4)
-
-  
-
+ [![Github](https://img.shields.io/badge/-gitHub-090909?style=for-the-badge&logo=gitHub)](https://github.com/us-asad) [![telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/us_asad) [![Fiverr](https://img.shields.io/badge/Hire%20me%20on%20fiverr-090909?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/asad_4)
+ 
+ 
 <!-- My github Stats -->
   <h1>Github stats <a  href="https://github.com/us-asad"><img width="4%" height="36px" align="center" src="https://github.com/us-asad/us-asad/blob/main/imgs/bar-chart.png" /></a> </h1>
 
